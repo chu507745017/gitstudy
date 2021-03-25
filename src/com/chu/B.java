@@ -2,8 +2,10 @@ package com.chu;
 
 /**
  * @author jhc
- * @date 2021/2/8 16:23
+ * @date 2021/3/25 20:54
  */
 public class B {
-    private Integer id;
+    public void say(){
+        System.out.println("我是B");
+    }
 }
